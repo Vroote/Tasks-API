@@ -26,5 +26,3 @@ curl -X POST localhost:8080/api/v1/tasks \
 ```
 
 Тесты: `make test`
-
-Если поменял `openapi.yaml`, нужно перегенерировать код: `make generate`
